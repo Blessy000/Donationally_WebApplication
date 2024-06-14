@@ -1,4 +1,4 @@
-# Blessy - Moundru ---Donation Website Application
+# Blessy - Moundru ---Donationally Website Application
 
 ## Table of contents
 
