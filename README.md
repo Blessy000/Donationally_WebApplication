@@ -1,4 +1,4 @@
-# Project 3 -Ari-Lloyd-Jared-Owen-Ben---Donationally Charity Website
+# Blessy - Moundru ---Donation Website Application
 
 ## Table of contents
 
